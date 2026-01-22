@@ -9,5 +9,5 @@
 </div>
   
   <div align="center">
-   <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github-personal-blue?logo=github" target="_blank"></a>
+   <a href="https://github.com/Dtchaves" target="_blank"><img src="https://img.shields.io/badge/github-personal-blue?logo=github" target="_blank"></a>
 </div>
