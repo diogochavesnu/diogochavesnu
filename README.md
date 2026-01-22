@@ -8,4 +8,4 @@
 </div>
   
   ##
-  <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github-presonal-blue?logo=github" target="_blank"></a>
+  <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github-personal-gray?logo=github" target="_blank"></a>
