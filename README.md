@@ -9,5 +9,4 @@
   
   ##
   Presonal Github
-  <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogotulerchaves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github?logo=github" target="_blank"></a>
