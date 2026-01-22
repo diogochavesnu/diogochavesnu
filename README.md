@@ -8,5 +8,4 @@
 </div>
   
   ##
-  Presonal Github
-  <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github?logo=github" target="_blank"></a>
+  <a href="https://instagram.com/diogo.tuler.chaves" target="_blank"><img src="https://img.shields.io/badge/github-presonal-blue?logo=github" target="_blank"></a>
